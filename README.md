@@ -29,7 +29,7 @@ All intellectual property, algorithms, and derivative use are **protected under 
 To use this framework in research, development, or commercial productization:
 
 → **Contact Nexus Architect directly for licensing, joint venture, or collaboration.**  
-→ Email: [your_email_here]  
+→ Email: [dean.nexus@proton.me]  
 → Subject: _“Licensing Inquiry – Coherence Compression”_
 
 Use without license or expressed permission constitutes **unauthorized usage**.
