@@ -43,7 +43,13 @@ Use without license or expressed permission constitutes **unauthorized usage**.
 - Emergence theorists  
 - Developers seeking energy-efficient data pipelines
 
----
+------
+
+## 🔒 Licensing & Access
+
+This project is protected under the Dean Codex Sovereign License.  
+Use requires written consent and may involve NDA terms.  
+Contact: dean.nexus@proton.me
 
 ## 📎 Terms of Use Summary
 
